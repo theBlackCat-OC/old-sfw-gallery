@@ -1,2 +1,3 @@
-# sfw-gallery
-Repository for the Body Reference Gallery, SFW version
+# Body Reference Gallery
+
+Repository for the Original Character References Gallery, SFW
